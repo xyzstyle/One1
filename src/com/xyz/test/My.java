@@ -1,4 +1,5 @@
 package com.xyz.test;
+import xyz.A;
 
 public class My {
     public static void main(String[] args){
